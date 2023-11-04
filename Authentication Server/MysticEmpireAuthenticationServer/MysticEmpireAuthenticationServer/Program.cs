@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Program
+namespace MysticEmpireAuthenticationServer
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Mystic Empire Authentication Server, all right reserved 2023©. ");
         }
     }
 }
