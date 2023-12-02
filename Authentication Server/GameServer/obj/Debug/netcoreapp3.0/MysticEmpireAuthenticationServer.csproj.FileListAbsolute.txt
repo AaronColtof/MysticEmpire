@@ -1,0 +1,14 @@
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\bin\Debug\netcoreapp3.0\MysticEmpireAuthenticationServer.exe
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\bin\Debug\netcoreapp3.0\MysticEmpireAuthenticationServer.deps.json
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\bin\Debug\netcoreapp3.0\MysticEmpireAuthenticationServer.runtimeconfig.json
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\bin\Debug\netcoreapp3.0\MysticEmpireAuthenticationServer.runtimeconfig.dev.json
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\bin\Debug\netcoreapp3.0\MysticEmpireAuthenticationServer.dll
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\bin\Debug\netcoreapp3.0\MysticEmpireAuthenticationServer.pdb
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\obj\Debug\netcoreapp3.0\MysticEmpireAuthenticationServer.csproj.AssemblyReference.cache
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\obj\Debug\netcoreapp3.0\MysticEmpireAuthenticationServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\obj\Debug\netcoreapp3.0\MysticEmpireAuthenticationServer.AssemblyInfoInputs.cache
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\obj\Debug\netcoreapp3.0\MysticEmpireAuthenticationServer.AssemblyInfo.cs
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\obj\Debug\netcoreapp3.0\MysticEmpireAuthenticationServer.csproj.CoreCompileInputs.cache
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\obj\Debug\netcoreapp3.0\MysticEmpireAuthenticationServer.dll
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\obj\Debug\netcoreapp3.0\MysticEmpireAuthenticationServer.pdb
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\obj\Debug\netcoreapp3.0\MysticEmpireAuthenticationServer.genruntimeconfig.cache

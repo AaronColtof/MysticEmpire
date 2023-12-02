@@ -441,6 +441,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 127747345}
+  - component: {fileID: 127747347}
   - component: {fileID: 127747346}
   m_Layer: 0
   m_Name: AuthManager
@@ -472,12 +473,21 @@ MonoBehaviour:
   m_GameObject: {fileID: 127747344}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 539a3a68258e85243b121cd01c02e888, type: 3}
+  m_Script: {fileID: 11500000, guid: fae2e4a5bd99da04392b526bcaaa6c9e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ip: 127.0.0.1
-  port: 26950
-  myId: 0
+--- !u!114 &127747347
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 127747344}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0d1d39f833bcd04595f4b1f6dcd4d1f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &136335232
 GameObject:
   m_ObjectHideFlags: 0

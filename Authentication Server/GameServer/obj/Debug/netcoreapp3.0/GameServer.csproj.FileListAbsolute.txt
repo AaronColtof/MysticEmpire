@@ -1,0 +1,39 @@
+D:\tomdw\Desktop\Networking\Tutorial\GameServer\GameServer\bin\Debug\netcoreapp3.0\GameServer.exe
+D:\tomdw\Desktop\Networking\Tutorial\GameServer\GameServer\bin\Debug\netcoreapp3.0\GameServer.deps.json
+D:\tomdw\Desktop\Networking\Tutorial\GameServer\GameServer\bin\Debug\netcoreapp3.0\GameServer.runtimeconfig.json
+D:\tomdw\Desktop\Networking\Tutorial\GameServer\GameServer\bin\Debug\netcoreapp3.0\GameServer.runtimeconfig.dev.json
+D:\tomdw\Desktop\Networking\Tutorial\GameServer\GameServer\bin\Debug\netcoreapp3.0\GameServer.dll
+D:\tomdw\Desktop\Networking\Tutorial\GameServer\GameServer\bin\Debug\netcoreapp3.0\GameServer.pdb
+D:\tomdw\Desktop\Networking\Tutorial\GameServer\GameServer\obj\Debug\netcoreapp3.0\GameServer.csprojAssemblyReference.cache
+D:\tomdw\Desktop\Networking\Tutorial\GameServer\GameServer\obj\Debug\netcoreapp3.0\GameServer.AssemblyInfoInputs.cache
+D:\tomdw\Desktop\Networking\Tutorial\GameServer\GameServer\obj\Debug\netcoreapp3.0\GameServer.AssemblyInfo.cs
+D:\tomdw\Desktop\Networking\Tutorial\GameServer\GameServer\obj\Debug\netcoreapp3.0\GameServer.dll
+D:\tomdw\Desktop\Networking\Tutorial\GameServer\GameServer\obj\Debug\netcoreapp3.0\GameServer.pdb
+C:\Users\acwin\Downloads\tcp-udp-networking-f8d872c3e5cf7d166959d88c75101aad9d9971d1\GameServer\GameServer\bin\Debug\netcoreapp3.0\GameServer.exe
+C:\Users\acwin\Downloads\tcp-udp-networking-f8d872c3e5cf7d166959d88c75101aad9d9971d1\GameServer\GameServer\bin\Debug\netcoreapp3.0\GameServer.deps.json
+C:\Users\acwin\Downloads\tcp-udp-networking-f8d872c3e5cf7d166959d88c75101aad9d9971d1\GameServer\GameServer\bin\Debug\netcoreapp3.0\GameServer.runtimeconfig.json
+C:\Users\acwin\Downloads\tcp-udp-networking-f8d872c3e5cf7d166959d88c75101aad9d9971d1\GameServer\GameServer\bin\Debug\netcoreapp3.0\GameServer.runtimeconfig.dev.json
+C:\Users\acwin\Downloads\tcp-udp-networking-f8d872c3e5cf7d166959d88c75101aad9d9971d1\GameServer\GameServer\bin\Debug\netcoreapp3.0\GameServer.dll
+C:\Users\acwin\Downloads\tcp-udp-networking-f8d872c3e5cf7d166959d88c75101aad9d9971d1\GameServer\GameServer\bin\Debug\netcoreapp3.0\GameServer.pdb
+C:\Users\acwin\Downloads\tcp-udp-networking-f8d872c3e5cf7d166959d88c75101aad9d9971d1\GameServer\GameServer\obj\Debug\netcoreapp3.0\GameServer.csproj.AssemblyReference.cache
+C:\Users\acwin\Downloads\tcp-udp-networking-f8d872c3e5cf7d166959d88c75101aad9d9971d1\GameServer\GameServer\obj\Debug\netcoreapp3.0\GameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acwin\Downloads\tcp-udp-networking-f8d872c3e5cf7d166959d88c75101aad9d9971d1\GameServer\GameServer\obj\Debug\netcoreapp3.0\GameServer.AssemblyInfoInputs.cache
+C:\Users\acwin\Downloads\tcp-udp-networking-f8d872c3e5cf7d166959d88c75101aad9d9971d1\GameServer\GameServer\obj\Debug\netcoreapp3.0\GameServer.AssemblyInfo.cs
+C:\Users\acwin\Downloads\tcp-udp-networking-f8d872c3e5cf7d166959d88c75101aad9d9971d1\GameServer\GameServer\obj\Debug\netcoreapp3.0\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\acwin\Downloads\tcp-udp-networking-f8d872c3e5cf7d166959d88c75101aad9d9971d1\GameServer\GameServer\obj\Debug\netcoreapp3.0\GameServer.dll
+C:\Users\acwin\Downloads\tcp-udp-networking-f8d872c3e5cf7d166959d88c75101aad9d9971d1\GameServer\GameServer\obj\Debug\netcoreapp3.0\GameServer.pdb
+C:\Users\acwin\Downloads\tcp-udp-networking-f8d872c3e5cf7d166959d88c75101aad9d9971d1\GameServer\GameServer\obj\Debug\netcoreapp3.0\GameServer.genruntimeconfig.cache
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\bin\Debug\netcoreapp3.0\GameServer.exe
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\bin\Debug\netcoreapp3.0\GameServer.deps.json
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\bin\Debug\netcoreapp3.0\GameServer.runtimeconfig.json
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\bin\Debug\netcoreapp3.0\GameServer.runtimeconfig.dev.json
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\bin\Debug\netcoreapp3.0\GameServer.dll
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\bin\Debug\netcoreapp3.0\GameServer.pdb
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\obj\Debug\netcoreapp3.0\GameServer.csproj.AssemblyReference.cache
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\obj\Debug\netcoreapp3.0\GameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\obj\Debug\netcoreapp3.0\GameServer.AssemblyInfoInputs.cache
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\obj\Debug\netcoreapp3.0\GameServer.AssemblyInfo.cs
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\obj\Debug\netcoreapp3.0\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\obj\Debug\netcoreapp3.0\GameServer.dll
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\obj\Debug\netcoreapp3.0\GameServer.pdb
+C:\Users\acwin\Documents\Mystic Empire\Authentication Server\GameServer\obj\Debug\netcoreapp3.0\GameServer.genruntimeconfig.cache

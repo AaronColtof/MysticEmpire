@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 using TMPro;
 using System.Net.Mail;
 using System.Linq;
+using UnityEngine.PlayerLoop;
 
 public class CanvasManagerLogin : MonoBehaviour
 {
@@ -92,7 +93,7 @@ public class CanvasManagerLogin : MonoBehaviour
     {
         if (loginEmailField.text != string.Empty && loginPasswordField.text != string.Empty)
         {
-            throw new NotImplementedException();
+            Client.instance.SendLogin(loginEmailField.text, loginPasswordField.text);
         }
         else
         {
@@ -105,7 +106,7 @@ public class CanvasManagerLogin : MonoBehaviour
     {
         if (IsEmail(registerEmailField.text) && IsStrongPassword(registerPasswordField.text) && IsUsername(registerUsernameField.text))
         {
-            throw new NotImplementedException();
+            Client.instance.SendRegister(registerEmailField.text, registerPasswordField.text, registerUsernameField.text);
         }
         else
         {
